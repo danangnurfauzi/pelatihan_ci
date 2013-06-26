@@ -1,0 +1,5 @@
+1. taruh folder pelatihan_ci dalam server
+2. import database caranya :
+	- buka phpmyadmin
+	- pilih tab import dan pilih file pelatihan_ci.sql di folder
+3. running di browser localhost/pelatihan_ci
